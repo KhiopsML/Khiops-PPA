@@ -1,0 +1,1104 @@
+Package: khiops
+Version: 10.3.1-1
+Architecture: amd64
+Maintainer: Khiops Team <khiops.team@orange.com>
+Installed-Size: 466
+Depends: khiops-core (=10.3.1-1), default-jre (>=1.8), libnotify-bin
+Filename: ./khiops_10.3.1-1-bookworm.amd64.deb
+Size: 415244
+MD5sum: d8150d0d8df6d19533c1a50ae33cd5b0
+SHA1: f3bc10a711ccf701e61baedded2d64c69141cb2d
+SHA256: 13158e0a312ff3964355098752663c42950b60015dc16b4b3c3a2ff09dec4a8f
+Section: math
+Priority: optional
+Homepage: https://khiops.org
+Description: software for data mining
+ Khiops is a data preparation and scoring tool for supervised learning
+ and unsupervised learning. It allows one to perform univariate and
+ bivariate descriptive statistics, to evaluate the predictive
+ importance of explanatory variables, to discretize numerical
+ variables, to group the values of categorical variables, to recode
+ input data according to these discretizations and value groupings. It
+ allows one to perform multi-table relational mining with automatic
+ variable construction. Khiops also produces a scoring model for
+ supervised learning tasks, according to a Selective Naive Bayes
+ approach, either for classification or for regression.  Khiops is
+ available both in user interface mode and in batch mode, such that it
+ can easily be embedded as a software component in a data mining
+ deployment projet.
+
+Package: khiops
+Version: 10.3.1-1
+Architecture: amd64
+Maintainer: Khiops Team <khiops.team@orange.com>
+Installed-Size: 461
+Depends: khiops-core (=10.3.1-1), default-jre (>=1.8), libnotify-bin
+Filename: ./khiops_10.3.1-1-jammy.amd64.deb
+Size: 410734
+MD5sum: 4002fd0018fbf5b3261748c08ae37960
+SHA1: 13aca01c5687daa7d163e90eaeeb6c008da92c0b
+SHA256: 1fe436abc80c5111e699090268b2d6549ee3b7c895e3d144793e80af76786b0a
+Section: math
+Priority: optional
+Homepage: https://khiops.org
+Description: software for data mining
+ Khiops is a data preparation and scoring tool for supervised learning
+ and unsupervised learning. It allows one to perform univariate and
+ bivariate descriptive statistics, to evaluate the predictive
+ importance of explanatory variables, to discretize numerical
+ variables, to group the values of categorical variables, to recode
+ input data according to these discretizations and value groupings. It
+ allows one to perform multi-table relational mining with automatic
+ variable construction. Khiops also produces a scoring model for
+ supervised learning tasks, according to a Selective Naive Bayes
+ approach, either for classification or for regression.  Khiops is
+ available both in user interface mode and in batch mode, such that it
+ can easily be embedded as a software component in a data mining
+ deployment projet.
+
+Package: khiops
+Version: 10.3.1-1
+Architecture: amd64
+Maintainer: Khiops Team <khiops.team@orange.com>
+Installed-Size: 461
+Depends: khiops-core (=10.3.1-1), default-jre (>=1.8), libnotify-bin
+Filename: ./khiops_10.3.1-1-focal.amd64.deb
+Size: 410726
+MD5sum: 7123c6d76876336d25d52095eb785b06
+SHA1: 1f257abe14e24036f0529426c253900609a85171
+SHA256: 4f37c73ca173bcb8834cbf6e2716b96802f0b347d8bd2a792cf9c6da8f9f9ccc
+Section: math
+Priority: optional
+Homepage: https://khiops.org
+Description: software for data mining
+ Khiops is a data preparation and scoring tool for supervised learning
+ and unsupervised learning. It allows one to perform univariate and
+ bivariate descriptive statistics, to evaluate the predictive
+ importance of explanatory variables, to discretize numerical
+ variables, to group the values of categorical variables, to recode
+ input data according to these discretizations and value groupings. It
+ allows one to perform multi-table relational mining with automatic
+ variable construction. Khiops also produces a scoring model for
+ supervised learning tasks, according to a Selective Naive Bayes
+ approach, either for classification or for regression.  Khiops is
+ available both in user interface mode and in batch mode, such that it
+ can easily be embedded as a software component in a data mining
+ deployment projet.
+
+Package: khiops
+Version: 10.3.1-1
+Architecture: amd64
+Maintainer: Khiops Team <khiops.team@orange.com>
+Installed-Size: 464
+Depends: khiops-core (=10.3.1-1), default-jre (>=1.8), libnotify-bin
+Filename: ./khiops_10.3.1-1-buster.amd64.deb
+Size: 414018
+MD5sum: 3a10b77a780e2db93530b940abdb4f66
+SHA1: 1c9000eb415907075aefb72cc5f572da5fcb0d24
+SHA256: c05c61f58bb8da81be4670704219981edc39a6d4e8485701782c3918c3aacbb4
+Section: math
+Priority: optional
+Homepage: https://khiops.org
+Description: software for data mining
+ Khiops is a data preparation and scoring tool for supervised learning
+ and unsupervised learning. It allows one to perform univariate and
+ bivariate descriptive statistics, to evaluate the predictive
+ importance of explanatory variables, to discretize numerical
+ variables, to group the values of categorical variables, to recode
+ input data according to these discretizations and value groupings. It
+ allows one to perform multi-table relational mining with automatic
+ variable construction. Khiops also produces a scoring model for
+ supervised learning tasks, according to a Selective Naive Bayes
+ approach, either for classification or for regression.  Khiops is
+ available both in user interface mode and in batch mode, such that it
+ can easily be embedded as a software component in a data mining
+ deployment projet.
+
+Package: khiops
+Version: 10.3.1-1
+Architecture: amd64
+Maintainer: Khiops Team <khiops.team@orange.com>
+Installed-Size: 461
+Depends: khiops-core (=10.3.1-1), default-jre (>=1.8), libnotify-bin
+Filename: ./khiops_10.3.1-1-noble.amd64.deb
+Size: 410722
+MD5sum: 1c47bdd3fbe525d09880acbe53c82548
+SHA1: d807126ea26356fe0a9fc595ee14fe9a4deef183
+SHA256: 616d995a699d01b78d8e627a1f1bb741d5b0908195efb840c57ce8440399ea03
+Section: math
+Priority: optional
+Homepage: https://khiops.org
+Description: software for data mining
+ Khiops is a data preparation and scoring tool for supervised learning
+ and unsupervised learning. It allows one to perform univariate and
+ bivariate descriptive statistics, to evaluate the predictive
+ importance of explanatory variables, to discretize numerical
+ variables, to group the values of categorical variables, to recode
+ input data according to these discretizations and value groupings. It
+ allows one to perform multi-table relational mining with automatic
+ variable construction. Khiops also produces a scoring model for
+ supervised learning tasks, according to a Selective Naive Bayes
+ approach, either for classification or for regression.  Khiops is
+ available both in user interface mode and in batch mode, such that it
+ can easily be embedded as a software component in a data mining
+ deployment projet.
+
+Package: khiops
+Version: 10.3.1-1
+Architecture: amd64
+Maintainer: Khiops Team <khiops.team@orange.com>
+Installed-Size: 464
+Depends: khiops-core (=10.3.1-1), default-jre (>=1.8), libnotify-bin
+Filename: ./khiops_10.3.1-1-bullseye.amd64.deb
+Size: 413994
+MD5sum: ec02b17f08582f976b1152710d3b38db
+SHA1: 70ba310cf14897a444e7242993d86a11bd982556
+SHA256: fc7fd6f772dc9d04bc5714d5a6b4bb03a4d55a7a23315fb389103d76d38b7228
+Section: math
+Priority: optional
+Homepage: https://khiops.org
+Description: software for data mining
+ Khiops is a data preparation and scoring tool for supervised learning
+ and unsupervised learning. It allows one to perform univariate and
+ bivariate descriptive statistics, to evaluate the predictive
+ importance of explanatory variables, to discretize numerical
+ variables, to group the values of categorical variables, to recode
+ input data according to these discretizations and value groupings. It
+ allows one to perform multi-table relational mining with automatic
+ variable construction. Khiops also produces a scoring model for
+ supervised learning tasks, according to a Selective Naive Bayes
+ approach, either for classification or for regression.  Khiops is
+ available both in user interface mode and in batch mode, such that it
+ can easily be embedded as a software component in a data mining
+ deployment projet.
+
+Package: khiops
+Version: 10.3.2-1
+Architecture: amd64
+Maintainer: Khiops Team <khiops.team@orange.com>
+Installed-Size: 461
+Depends: khiops-core (=10.3.2-1), default-jre (>=1.8), libnotify-bin
+Filename: ./khiops_10.3.2-1-noble.amd64.deb
+Size: 410738
+MD5sum: 147625cfd0e847026682fd9dd6f44e26
+SHA1: 0a942a3f4cfa7d895e53e005146dce3a6db48f0f
+SHA256: 6d2c8adb7ab8c56639889c23b86e68ed8b7c2ddc153da0e12c65f7121e888abe
+Section: math
+Priority: optional
+Homepage: https://khiops.org
+Description: software for data mining
+ Khiops is a data preparation and scoring tool for supervised learning
+ and unsupervised learning. It allows one to perform univariate and
+ bivariate descriptive statistics, to evaluate the predictive
+ importance of explanatory variables, to discretize numerical
+ variables, to group the values of categorical variables, to recode
+ input data according to these discretizations and value groupings. It
+ allows one to perform multi-table relational mining with automatic
+ variable construction. Khiops also produces a scoring model for
+ supervised learning tasks, according to a Selective Naive Bayes
+ approach, either for classification or for regression.  Khiops is
+ available both in user interface mode and in batch mode, such that it
+ can easily be embedded as a software component in a data mining
+ deployment projet.
+
+Package: khiops
+Version: 10.3.2-1
+Architecture: amd64
+Maintainer: Khiops Team <khiops.team@orange.com>
+Installed-Size: 461
+Depends: khiops-core (=10.3.2-1), default-jre (>=1.8), libnotify-bin
+Filename: ./khiops_10.3.2-1-jammy.amd64.deb
+Size: 410754
+MD5sum: 35461828581bb0d7ad77cb0a79de609f
+SHA1: d388667bf6f11e2a63bd2239e06bdf9f8ee5ebd4
+SHA256: 2b56525fe2ef0460ebd25a0b8d4a11075ce3a44147718e924d355f7a788c72de
+Section: math
+Priority: optional
+Homepage: https://khiops.org
+Description: software for data mining
+ Khiops is a data preparation and scoring tool for supervised learning
+ and unsupervised learning. It allows one to perform univariate and
+ bivariate descriptive statistics, to evaluate the predictive
+ importance of explanatory variables, to discretize numerical
+ variables, to group the values of categorical variables, to recode
+ input data according to these discretizations and value groupings. It
+ allows one to perform multi-table relational mining with automatic
+ variable construction. Khiops also produces a scoring model for
+ supervised learning tasks, according to a Selective Naive Bayes
+ approach, either for classification or for regression.  Khiops is
+ available both in user interface mode and in batch mode, such that it
+ can easily be embedded as a software component in a data mining
+ deployment projet.
+
+Package: khiops
+Version: 10.3.2-1
+Architecture: amd64
+Maintainer: Khiops Team <khiops.team@orange.com>
+Installed-Size: 465
+Depends: khiops-core (=10.3.2-1), default-jre (>=1.8), libnotify-bin
+Filename: ./khiops_10.3.2-1-bullseye.amd64.deb
+Size: 414040
+MD5sum: 41ebee437b70d15ec119aec0c3d3a93d
+SHA1: 925d1de44fb4f93c9de7468d488f93d4c304b696
+SHA256: 4d16575c52a53c5a89f7427cd149901113f5465dab7cd20bc8b5551927a8034f
+Section: math
+Priority: optional
+Homepage: https://khiops.org
+Description: software for data mining
+ Khiops is a data preparation and scoring tool for supervised learning
+ and unsupervised learning. It allows one to perform univariate and
+ bivariate descriptive statistics, to evaluate the predictive
+ importance of explanatory variables, to discretize numerical
+ variables, to group the values of categorical variables, to recode
+ input data according to these discretizations and value groupings. It
+ allows one to perform multi-table relational mining with automatic
+ variable construction. Khiops also produces a scoring model for
+ supervised learning tasks, according to a Selective Naive Bayes
+ approach, either for classification or for regression.  Khiops is
+ available both in user interface mode and in batch mode, such that it
+ can easily be embedded as a software component in a data mining
+ deployment projet.
+
+Package: khiops
+Version: 10.3.2-1
+Architecture: amd64
+Maintainer: Khiops Team <khiops.team@orange.com>
+Installed-Size: 461
+Depends: khiops-core (=10.3.2-1), default-jre (>=1.8), libnotify-bin
+Filename: ./khiops_10.3.2-1-focal.amd64.deb
+Size: 410728
+MD5sum: 889281659681d08797119572b23ddfc1
+SHA1: 62552423834c4b1d98c2474359d77d086bda6093
+SHA256: a2aa8484f70083838b3431b0ddbff6f8bdb92f5e3490b4c50f350c13ed8fa467
+Section: math
+Priority: optional
+Homepage: https://khiops.org
+Description: software for data mining
+ Khiops is a data preparation and scoring tool for supervised learning
+ and unsupervised learning. It allows one to perform univariate and
+ bivariate descriptive statistics, to evaluate the predictive
+ importance of explanatory variables, to discretize numerical
+ variables, to group the values of categorical variables, to recode
+ input data according to these discretizations and value groupings. It
+ allows one to perform multi-table relational mining with automatic
+ variable construction. Khiops also produces a scoring model for
+ supervised learning tasks, according to a Selective Naive Bayes
+ approach, either for classification or for regression.  Khiops is
+ available both in user interface mode and in batch mode, such that it
+ can easily be embedded as a software component in a data mining
+ deployment projet.
+
+Package: khiops
+Version: 10.3.2-1
+Architecture: amd64
+Maintainer: Khiops Team <khiops.team@orange.com>
+Installed-Size: 466
+Depends: khiops-core (=10.3.2-1), default-jre (>=1.8), libnotify-bin
+Filename: ./khiops_10.3.2-1-bookworm.amd64.deb
+Size: 415280
+MD5sum: 6025144348a6bab71f3736c2bb454e28
+SHA1: 387e12d105094551af23e9bdde86b92856b95251
+SHA256: 42c0df88c21c905d915954279e4685883cb2e18ec7245bfa282b3c31471fdb92
+Section: math
+Priority: optional
+Homepage: https://khiops.org
+Description: software for data mining
+ Khiops is a data preparation and scoring tool for supervised learning
+ and unsupervised learning. It allows one to perform univariate and
+ bivariate descriptive statistics, to evaluate the predictive
+ importance of explanatory variables, to discretize numerical
+ variables, to group the values of categorical variables, to recode
+ input data according to these discretizations and value groupings. It
+ allows one to perform multi-table relational mining with automatic
+ variable construction. Khiops also produces a scoring model for
+ supervised learning tasks, according to a Selective Naive Bayes
+ approach, either for classification or for regression.  Khiops is
+ available both in user interface mode and in batch mode, such that it
+ can easily be embedded as a software component in a data mining
+ deployment projet.
+
+Package: khiops
+Version: 10.3.2-1
+Architecture: amd64
+Maintainer: Khiops Team <khiops.team@orange.com>
+Installed-Size: 465
+Depends: khiops-core (=10.3.2-1), default-jre (>=1.8), libnotify-bin
+Filename: ./khiops_10.3.2-1-buster.amd64.deb
+Size: 414036
+MD5sum: 85e3ad967b826b3236a067024ce5f441
+SHA1: 2acde6051bdf6a27138942de95b8da70de13a84e
+SHA256: a391121990c2f39df4b203e5feb213ce6c71aa8e0178da13d9f04b418994d063
+Section: math
+Priority: optional
+Homepage: https://khiops.org
+Description: software for data mining
+ Khiops is a data preparation and scoring tool for supervised learning
+ and unsupervised learning. It allows one to perform univariate and
+ bivariate descriptive statistics, to evaluate the predictive
+ importance of explanatory variables, to discretize numerical
+ variables, to group the values of categorical variables, to recode
+ input data according to these discretizations and value groupings. It
+ allows one to perform multi-table relational mining with automatic
+ variable construction. Khiops also produces a scoring model for
+ supervised learning tasks, according to a Selective Naive Bayes
+ approach, either for classification or for regression.  Khiops is
+ available both in user interface mode and in batch mode, such that it
+ can easily be embedded as a software component in a data mining
+ deployment projet.
+
+Package: khiops-core-openmpi
+Version: 10.3.1-1
+Architecture: amd64
+Maintainer: Khiops Team <khiops.team@orange.com>
+Installed-Size: 13885
+Depends: openmpi-bin, libc6 (>= 2.34), libgcc-s1 (>= 3.0), libopenmpi3 (>= 4.1.2), libstdc++6 (>= 11)
+Recommends: khiops, khiops-visualization
+Replaces: khiops-core (<< 10.2.2~ )
+Provides: khiops-core (= 10.3.1-1)
+Filename: ./khiops-core-openmpi_10.3.1-1-jammy.amd64.deb
+Size: 5417680
+MD5sum: 56bbd937e3e2482fa6f7a8e3407e9e41
+SHA1: bf2157c3a66c64e2704efb9de76015383697a9f7
+SHA256: 5c62acf8b4be09d633f7ea36359d313ff4c7eacd8868532059e108dd560bc04e
+Section: math
+Priority: optional
+Homepage: https://khiops.org
+Description: software for data mining
+ Khiops is a data preparation and scoring tool for supervised learning and
+ unsupervised learning. See the khiops package for more information.
+  .
+ This package is a minimal Khiops package, it contains the minimal files and
+ dependancies to use Khiops. It is intended to be used on servers : it comes
+ without GUI, samples or documentation. The full Khiops distribution is
+ available with the 'khiops' package.
+
+Package: khiops-core-openmpi
+Version: 10.3.1-1
+Architecture: amd64
+Maintainer: Khiops Team <khiops.team@orange.com>
+Installed-Size: 13889
+Depends: openmpi-bin, libc6 (>= 2.38), libgcc-s1 (>= 3.0), libopenmpi3t64 (>= 4.1.6), libstdc++6 (>= 13.1)
+Recommends: khiops, khiops-visualization
+Replaces: khiops-core (<< 10.2.2~ )
+Provides: khiops-core (= 10.3.1-1)
+Filename: ./khiops-core-openmpi_10.3.1-1-noble.amd64.deb
+Size: 5434980
+MD5sum: 2c14284266824bed01f6396671c290e3
+SHA1: f6edb5db3bc5cdae4c30dac4d5c9ef535e637a6c
+SHA256: 6fbd19eabd42b8e38ce92d7493f28fb2d7659055d11dde05d30500e01403147a
+Section: math
+Priority: optional
+Homepage: https://khiops.org
+Description: software for data mining
+ Khiops is a data preparation and scoring tool for supervised learning and
+ unsupervised learning. See the khiops package for more information.
+  .
+ This package is a minimal Khiops package, it contains the minimal files and
+ dependancies to use Khiops. It is intended to be used on servers : it comes
+ without GUI, samples or documentation. The full Khiops distribution is
+ available with the 'khiops' package.
+
+Package: khiops-core-openmpi
+Version: 10.3.1-1
+Architecture: amd64
+Maintainer: Khiops Team <khiops.team@orange.com>
+Installed-Size: 13533
+Depends: openmpi-bin, libc6 (>= 2.14), libgcc1 (>= 1:3.0), libopenmpi3, libstdc++6 (>= 5.2)
+Recommends: khiops, khiops-visualization
+Replaces: khiops-core (<< 10.2.2~ )
+Provides: khiops-core (= 10.3.1-1)
+Filename: ./khiops-core-openmpi_10.3.1-1-buster.amd64.deb
+Size: 5322782
+MD5sum: f175563e55a76e371f71af947b42ab14
+SHA1: f1161f73c5d0959a36aae6576514bb5df39bb9fe
+SHA256: 042929671c688d53e23c19025edbc8f6d9c5a992252d3f752dadd700faed1ba5
+Section: math
+Priority: optional
+Homepage: https://khiops.org
+Description: software for data mining
+ Khiops is a data preparation and scoring tool for supervised learning and
+ unsupervised learning. See the khiops package for more information.
+  .
+ This package is a minimal Khiops package, it contains the minimal files and
+ dependancies to use Khiops. It is intended to be used on servers : it comes
+ without GUI, samples or documentation. The full Khiops distribution is
+ available with the 'khiops' package.
+
+Package: khiops-core-openmpi
+Version: 10.3.1-1
+Architecture: amd64
+Maintainer: Khiops Team <khiops.team@orange.com>
+Installed-Size: 13493
+Depends: openmpi-bin, libc6 (>= 2.34), libgcc-s1 (>= 3.0), libopenmpi3 (>= 4.1.4), libstdc++6 (>= 11)
+Recommends: khiops, khiops-visualization
+Replaces: khiops-core (<< 10.2.2~ )
+Provides: khiops-core (= 10.3.1-1)
+Filename: ./khiops-core-openmpi_10.3.1-1-bookworm.amd64.deb
+Size: 5311750
+MD5sum: 8fab303529729a9fca0912a1463e1470
+SHA1: c3fad6de7cc65f13ee4c0a671ba055159b1ea77a
+SHA256: cee58db8068dd1bada759627d0269192d8d752aa21c08ff48361a385f8502cb8
+Section: math
+Priority: optional
+Homepage: https://khiops.org
+Description: software for data mining
+ Khiops is a data preparation and scoring tool for supervised learning and
+ unsupervised learning. See the khiops package for more information.
+  .
+ This package is a minimal Khiops package, it contains the minimal files and
+ dependancies to use Khiops. It is intended to be used on servers : it comes
+ without GUI, samples or documentation. The full Khiops distribution is
+ available with the 'khiops' package.
+
+Package: khiops-core-openmpi
+Version: 10.3.1-1
+Architecture: amd64
+Maintainer: Khiops Team <khiops.team@orange.com>
+Installed-Size: 13849
+Depends: openmpi-bin, libc6 (>= 2.29), libgcc-s1 (>= 3.0), libopenmpi3 (>= 4.0.3), libstdc++6 (>= 9)
+Recommends: khiops, khiops-visualization
+Replaces: khiops-core (<< 10.2.2~ )
+Provides: khiops-core (= 10.3.1-1)
+Filename: ./khiops-core-openmpi_10.3.1-1-focal.amd64.deb
+Size: 5407228
+MD5sum: 91a80a299a568c9b3058fa5cf8ab6368
+SHA1: a39638ade3b6244e1c15f02dfa9fa089112ab2fc
+SHA256: 2d87f949c123f1125478495263bf7ac07a097fdcd71490df61c5fa387d43dac6
+Section: math
+Priority: optional
+Homepage: https://khiops.org
+Description: software for data mining
+ Khiops is a data preparation and scoring tool for supervised learning and
+ unsupervised learning. See the khiops package for more information.
+  .
+ This package is a minimal Khiops package, it contains the minimal files and
+ dependancies to use Khiops. It is intended to be used on servers : it comes
+ without GUI, samples or documentation. The full Khiops distribution is
+ available with the 'khiops' package.
+
+Package: khiops-core-openmpi
+Version: 10.3.1-1
+Architecture: amd64
+Maintainer: Khiops Team <khiops.team@orange.com>
+Installed-Size: 13489
+Depends: openmpi-bin, libc6 (>= 2.29), libgcc-s1 (>= 3.0), libopenmpi3 (>= 4.1.0), libstdc++6 (>= 9)
+Recommends: khiops, khiops-visualization
+Replaces: khiops-core (<< 10.2.2~ )
+Provides: khiops-core (= 10.3.1-1)
+Filename: ./khiops-core-openmpi_10.3.1-1-bullseye.amd64.deb
+Size: 5308432
+MD5sum: aa560af89f0558a45c21e03f7458a961
+SHA1: 8cbcbfda126492b9b5dcb03614b23e21ea2892d7
+SHA256: af81155243eb6d709035dc48bacb920eb1a1ae826c33a8b4655f75d8ca3282c2
+Section: math
+Priority: optional
+Homepage: https://khiops.org
+Description: software for data mining
+ Khiops is a data preparation and scoring tool for supervised learning and
+ unsupervised learning. See the khiops package for more information.
+  .
+ This package is a minimal Khiops package, it contains the minimal files and
+ dependancies to use Khiops. It is intended to be used on servers : it comes
+ without GUI, samples or documentation. The full Khiops distribution is
+ available with the 'khiops' package.
+
+Package: khiops-core-openmpi
+Version: 10.3.2-1
+Architecture: amd64
+Maintainer: Khiops Team <khiops.team@orange.com>
+Installed-Size: 13485
+Depends: openmpi-bin, libc6 (>= 2.29), libgcc-s1 (>= 3.0), libopenmpi3 (>= 4.1.0), libstdc++6 (>= 9)
+Recommends: khiops, khiops-visualization
+Replaces: khiops-core (<< 10.2.2~ )
+Provides: khiops-core (= 10.3.2-1)
+Filename: ./khiops-core-openmpi_10.3.2-1-bullseye.amd64.deb
+Size: 5306136
+MD5sum: f133fe6b4e14625b8a97f5063858b097
+SHA1: 0ec2f82999958450379783b8078f9b6831aa0b32
+SHA256: 6e54ff3d791d5c8e1c8f9c16f09c4874908d0f33015212ecb26b91079e4f4279
+Section: math
+Priority: optional
+Homepage: https://khiops.org
+Description: software for data mining
+ Khiops is a data preparation and scoring tool for supervised learning and
+ unsupervised learning. See the khiops package for more information.
+  .
+ This package is a minimal Khiops package, it contains the minimal files and
+ dependancies to use Khiops. It is intended to be used on servers : it comes
+ without GUI, samples or documentation. The full Khiops distribution is
+ available with the 'khiops' package.
+
+Package: khiops-core-openmpi
+Version: 10.3.2-1
+Architecture: amd64
+Maintainer: Khiops Team <khiops.team@orange.com>
+Installed-Size: 13849
+Depends: openmpi-bin, libc6 (>= 2.29), libgcc-s1 (>= 3.0), libopenmpi3 (>= 4.0.3), libstdc++6 (>= 9)
+Recommends: khiops, khiops-visualization
+Replaces: khiops-core (<< 10.2.2~ )
+Provides: khiops-core (= 10.3.2-1)
+Filename: ./khiops-core-openmpi_10.3.2-1-focal.amd64.deb
+Size: 5406548
+MD5sum: 708d2f9f9b89ccf624ee8062562e9c40
+SHA1: db173f0083f0370f745ed2754fec267dbd71d582
+SHA256: f772ccf3be92730df042588870a6a34dead62914435959885d70c125f6ea75f4
+Section: math
+Priority: optional
+Homepage: https://khiops.org
+Description: software for data mining
+ Khiops is a data preparation and scoring tool for supervised learning and
+ unsupervised learning. See the khiops package for more information.
+  .
+ This package is a minimal Khiops package, it contains the minimal files and
+ dependancies to use Khiops. It is intended to be used on servers : it comes
+ without GUI, samples or documentation. The full Khiops distribution is
+ available with the 'khiops' package.
+
+Package: khiops-core-openmpi
+Version: 10.3.2-1
+Architecture: amd64
+Maintainer: Khiops Team <khiops.team@orange.com>
+Installed-Size: 13485
+Depends: openmpi-bin, libc6 (>= 2.34), libgcc-s1 (>= 3.0), libopenmpi3 (>= 4.1.4), libstdc++6 (>= 11)
+Recommends: khiops, khiops-visualization
+Replaces: khiops-core (<< 10.2.2~ )
+Provides: khiops-core (= 10.3.2-1)
+Filename: ./khiops-core-openmpi_10.3.2-1-bookworm.amd64.deb
+Size: 5310280
+MD5sum: 1dcabd4134598e0e168d8cdb2c2f274a
+SHA1: 5b61442b84fd1ea828e58272273dba0063360e07
+SHA256: 5578d9ef7d19c14985651e76b464df219b6931b2cf48ea6bb5c9543e12e502aa
+Section: math
+Priority: optional
+Homepage: https://khiops.org
+Description: software for data mining
+ Khiops is a data preparation and scoring tool for supervised learning and
+ unsupervised learning. See the khiops package for more information.
+  .
+ This package is a minimal Khiops package, it contains the minimal files and
+ dependancies to use Khiops. It is intended to be used on servers : it comes
+ without GUI, samples or documentation. The full Khiops distribution is
+ available with the 'khiops' package.
+
+Package: khiops-core-openmpi
+Version: 10.3.2-1
+Architecture: amd64
+Maintainer: Khiops Team <khiops.team@orange.com>
+Installed-Size: 13885
+Depends: openmpi-bin, libc6 (>= 2.38), libgcc-s1 (>= 3.0), libopenmpi3t64 (>= 4.1.6), libstdc++6 (>= 13.1)
+Recommends: khiops, khiops-visualization
+Replaces: khiops-core (<< 10.2.2~ )
+Provides: khiops-core (= 10.3.2-1)
+Filename: ./khiops-core-openmpi_10.3.2-1-noble.amd64.deb
+Size: 5433732
+MD5sum: 7da3b948ed8d224eb70b79ac33e18ea0
+SHA1: dfa9eedd4bb7a021a44c65d5376a6b9965c79ade
+SHA256: 21a06b4be56a2df84a8935e93e661b69227d520c3c8f14f9dc82a37823266ed2
+Section: math
+Priority: optional
+Homepage: https://khiops.org
+Description: software for data mining
+ Khiops is a data preparation and scoring tool for supervised learning and
+ unsupervised learning. See the khiops package for more information.
+  .
+ This package is a minimal Khiops package, it contains the minimal files and
+ dependancies to use Khiops. It is intended to be used on servers : it comes
+ without GUI, samples or documentation. The full Khiops distribution is
+ available with the 'khiops' package.
+
+Package: khiops-core-openmpi
+Version: 10.3.2-1
+Architecture: amd64
+Maintainer: Khiops Team <khiops.team@orange.com>
+Installed-Size: 13529
+Depends: openmpi-bin, libc6 (>= 2.14), libgcc1 (>= 1:3.0), libopenmpi3, libstdc++6 (>= 5.2)
+Recommends: khiops, khiops-visualization
+Replaces: khiops-core (<< 10.2.2~ )
+Provides: khiops-core (= 10.3.2-1)
+Filename: ./khiops-core-openmpi_10.3.2-1-buster.amd64.deb
+Size: 5320566
+MD5sum: 542b80e50c992f65a94913a8f9256a38
+SHA1: 750cb6efb8756fe5e485a142f81eafb04c4f6234
+SHA256: 4590b2b1f1347a60be550cebb707efd00fc1695d85579c571fef23dc2280a2d4
+Section: math
+Priority: optional
+Homepage: https://khiops.org
+Description: software for data mining
+ Khiops is a data preparation and scoring tool for supervised learning and
+ unsupervised learning. See the khiops package for more information.
+  .
+ This package is a minimal Khiops package, it contains the minimal files and
+ dependancies to use Khiops. It is intended to be used on servers : it comes
+ without GUI, samples or documentation. The full Khiops distribution is
+ available with the 'khiops' package.
+
+Package: khiops-core-openmpi
+Version: 10.3.2-1
+Architecture: amd64
+Maintainer: Khiops Team <khiops.team@orange.com>
+Installed-Size: 13877
+Depends: openmpi-bin, libc6 (>= 2.34), libgcc-s1 (>= 3.0), libopenmpi3 (>= 4.1.2), libstdc++6 (>= 11)
+Recommends: khiops, khiops-visualization
+Replaces: khiops-core (<< 10.2.2~ )
+Provides: khiops-core (= 10.3.2-1)
+Filename: ./khiops-core-openmpi_10.3.2-1-jammy.amd64.deb
+Size: 5415332
+MD5sum: 1de06e661e850d86e3e3c133f307bc62
+SHA1: 4bea875637cf26c8c8b0aa9542f8b9800f31cea4
+SHA256: 5a8d5dca134562e9283a0560bf753e87fdb7e311980b6957c22f3f8de308b290
+Section: math
+Priority: optional
+Homepage: https://khiops.org
+Description: software for data mining
+ Khiops is a data preparation and scoring tool for supervised learning and
+ unsupervised learning. See the khiops package for more information.
+  .
+ This package is a minimal Khiops package, it contains the minimal files and
+ dependancies to use Khiops. It is intended to be used on servers : it comes
+ without GUI, samples or documentation. The full Khiops distribution is
+ available with the 'khiops' package.
+
+Package: kni
+Version: 10.3.1-1
+Architecture: amd64
+Maintainer: Khiops Team <khiops.team@orange.com>
+Installed-Size: 19369
+Depends: libc6 (>= 2.29), libgcc-s1 (>= 3.0), libstdc++6 (>= 9)
+Filename: ./kni_10.3.1-1-bullseye.amd64.deb
+Size: 2535840
+MD5sum: 5a624e20961bcf75bb1fd3752e6c87f7
+SHA1: 4d201f9737218120a50d8ed84e3c459590530f5c
+SHA256: a20d1ffb0c50aa977dcd37baf4e78f008aaeb0cc3f52b61cc618e85e4e8e05dc
+Section: math
+Priority: optional
+Homepage: https://khiops.org
+Description: Khiops Native Interface
+ The purpose of Khiops Native Interface (KNI) is to allow a deeper integration
+ of Khiops in information systems, by mean of the C programming language, using
+ a dynamic link library (DLL). This relates specially to the problem of model
+ deployment, which otherwise requires the use of input and output data files
+ when using directly the Khiops tool in batch mode. See Khiops Guide for an
+ introduction to dictionary files, dictionaries, database files and deployment.
+  .
+ The Khiops deployment features are thus made public through an API with a DLL.
+ Therefore, a Khiops model can be deployed directly from any programming
+ language, such as C, C++, Java, Python, Matlab, etc. This enables real time
+ model deployment without the overhead of temporary data files or launching
+ executables. This is critical for certain applications, such as marketing or
+ targeted advertising on the web.
+  .
+ All KNI functions are C functions for easy use with other programming languages.
+ They return a positive or zero value in case of success, and a negative error
+ code in case of failure. The functions are not reentrant (thread-safe): the DLL
+ can be used simultaneously by several executables, but not simultaneously by
+ several threads in the same executable.
+  .
+ See KhiopsNativeInterface.h for a detailed description of KNI functions
+
+Package: kni
+Version: 10.3.1-1
+Architecture: amd64
+Maintainer: Khiops Team <khiops.team@orange.com>
+Installed-Size: 19897
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libstdc++6 (>= 11)
+Filename: ./kni_10.3.1-1-jammy.amd64.deb
+Size: 2588546
+MD5sum: 898a6f2cd97dc54ff5b532405f0df4b9
+SHA1: 3119bd1869f964b361c96031d7d8fcbe6973ad06
+SHA256: e7771bd05b725f21fed375cb378398831649763c61ed0cdb8ff4e78470154ab9
+Section: math
+Priority: optional
+Homepage: https://khiops.org
+Description: Khiops Native Interface
+ The purpose of Khiops Native Interface (KNI) is to allow a deeper integration
+ of Khiops in information systems, by mean of the C programming language, using
+ a dynamic link library (DLL). This relates specially to the problem of model
+ deployment, which otherwise requires the use of input and output data files
+ when using directly the Khiops tool in batch mode. See Khiops Guide for an
+ introduction to dictionary files, dictionaries, database files and deployment.
+  .
+ The Khiops deployment features are thus made public through an API with a DLL.
+ Therefore, a Khiops model can be deployed directly from any programming
+ language, such as C, C++, Java, Python, Matlab, etc. This enables real time
+ model deployment without the overhead of temporary data files or launching
+ executables. This is critical for certain applications, such as marketing or
+ targeted advertising on the web.
+  .
+ All KNI functions are C functions for easy use with other programming languages.
+ They return a positive or zero value in case of success, and a negative error
+ code in case of failure. The functions are not reentrant (thread-safe): the DLL
+ can be used simultaneously by several executables, but not simultaneously by
+ several threads in the same executable.
+  .
+ See KhiopsNativeInterface.h for a detailed description of KNI functions
+
+Package: kni
+Version: 10.3.1-1
+Architecture: amd64
+Maintainer: Khiops Team <khiops.team@orange.com>
+Installed-Size: 19898
+Depends: libc6 (>= 2.29), libgcc-s1 (>= 3.0), libstdc++6 (>= 9)
+Filename: ./kni_10.3.1-1-focal.amd64.deb
+Size: 2585034
+MD5sum: b9a83eabfd4bf47c9338d55946c2f6c2
+SHA1: 8ef00bd60702f0f76c0e65d7a9bfe537a9c69481
+SHA256: c2d217f98c37a5dd969bf1ab3fcbb05e1beb0fb3234d1eeda1f31403a64086e4
+Section: math
+Priority: optional
+Homepage: https://khiops.org
+Description: Khiops Native Interface
+ The purpose of Khiops Native Interface (KNI) is to allow a deeper integration
+ of Khiops in information systems, by mean of the C programming language, using
+ a dynamic link library (DLL). This relates specially to the problem of model
+ deployment, which otherwise requires the use of input and output data files
+ when using directly the Khiops tool in batch mode. See Khiops Guide for an
+ introduction to dictionary files, dictionaries, database files and deployment.
+  .
+ The Khiops deployment features are thus made public through an API with a DLL.
+ Therefore, a Khiops model can be deployed directly from any programming
+ language, such as C, C++, Java, Python, Matlab, etc. This enables real time
+ model deployment without the overhead of temporary data files or launching
+ executables. This is critical for certain applications, such as marketing or
+ targeted advertising on the web.
+  .
+ All KNI functions are C functions for easy use with other programming languages.
+ They return a positive or zero value in case of success, and a negative error
+ code in case of failure. The functions are not reentrant (thread-safe): the DLL
+ can be used simultaneously by several executables, but not simultaneously by
+ several threads in the same executable.
+  .
+ See KhiopsNativeInterface.h for a detailed description of KNI functions
+
+Package: kni
+Version: 10.3.1-1
+Architecture: amd64
+Maintainer: Khiops Team <khiops.team@orange.com>
+Installed-Size: 19356
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libstdc++6 (>= 11)
+Filename: ./kni_10.3.1-1-bookworm.amd64.deb
+Size: 2537360
+MD5sum: b854b2e46db178dcc931c1f932c1ef5e
+SHA1: 9ccdeaf614f0b237f03cab5f762b6a8f9208f536
+SHA256: 721600815ea994284c6e23e7d13b99a0766a57c0edb3a72d40deb654733d24ff
+Section: math
+Priority: optional
+Homepage: https://khiops.org
+Description: Khiops Native Interface
+ The purpose of Khiops Native Interface (KNI) is to allow a deeper integration
+ of Khiops in information systems, by mean of the C programming language, using
+ a dynamic link library (DLL). This relates specially to the problem of model
+ deployment, which otherwise requires the use of input and output data files
+ when using directly the Khiops tool in batch mode. See Khiops Guide for an
+ introduction to dictionary files, dictionaries, database files and deployment.
+  .
+ The Khiops deployment features are thus made public through an API with a DLL.
+ Therefore, a Khiops model can be deployed directly from any programming
+ language, such as C, C++, Java, Python, Matlab, etc. This enables real time
+ model deployment without the overhead of temporary data files or launching
+ executables. This is critical for certain applications, such as marketing or
+ targeted advertising on the web.
+  .
+ All KNI functions are C functions for easy use with other programming languages.
+ They return a positive or zero value in case of success, and a negative error
+ code in case of failure. The functions are not reentrant (thread-safe): the DLL
+ can be used simultaneously by several executables, but not simultaneously by
+ several threads in the same executable.
+  .
+ See KhiopsNativeInterface.h for a detailed description of KNI functions
+
+Package: kni
+Version: 10.3.1-1
+Architecture: amd64
+Maintainer: Khiops Team <khiops.team@orange.com>
+Installed-Size: 19921
+Depends: libc6 (>= 2.38), libgcc-s1 (>= 3.0), libstdc++6 (>= 13.1)
+Filename: ./kni_10.3.1-1-noble.amd64.deb
+Size: 2597678
+MD5sum: f8350981ba91c62dcd491ac89df27351
+SHA1: b4a949e484fd2fc4ab77e444aeb55eff5b97f094
+SHA256: 456524c391e6f0acb1fee9bb56936ddf0411600efca10a4b36feb771de05bad6
+Section: math
+Priority: optional
+Homepage: https://khiops.org
+Description: Khiops Native Interface
+ The purpose of Khiops Native Interface (KNI) is to allow a deeper integration
+ of Khiops in information systems, by mean of the C programming language, using
+ a dynamic link library (DLL). This relates specially to the problem of model
+ deployment, which otherwise requires the use of input and output data files
+ when using directly the Khiops tool in batch mode. See Khiops Guide for an
+ introduction to dictionary files, dictionaries, database files and deployment.
+  .
+ The Khiops deployment features are thus made public through an API with a DLL.
+ Therefore, a Khiops model can be deployed directly from any programming
+ language, such as C, C++, Java, Python, Matlab, etc. This enables real time
+ model deployment without the overhead of temporary data files or launching
+ executables. This is critical for certain applications, such as marketing or
+ targeted advertising on the web.
+  .
+ All KNI functions are C functions for easy use with other programming languages.
+ They return a positive or zero value in case of success, and a negative error
+ code in case of failure. The functions are not reentrant (thread-safe): the DLL
+ can be used simultaneously by several executables, but not simultaneously by
+ several threads in the same executable.
+  .
+ See KhiopsNativeInterface.h for a detailed description of KNI functions
+
+Package: kni
+Version: 10.3.1-1
+Architecture: amd64
+Maintainer: Khiops Team <khiops.team@orange.com>
+Installed-Size: 19430
+Depends: libc6 (>= 2.14), libgcc1 (>= 1:3.0), libstdc++6 (>= 5.2)
+Filename: ./kni_10.3.1-1-buster.amd64.deb
+Size: 2542392
+MD5sum: 54cbed8760af4e9578eaeb1128288fa2
+SHA1: 2c2cd3c74ddc0a86d241e1625d48a5fb958a7171
+SHA256: 78d6c8a55709cf0bab1683bced1bdf3e5492eaf72d32f28cf3e3795dbf99d6db
+Section: math
+Priority: optional
+Homepage: https://khiops.org
+Description: Khiops Native Interface
+ The purpose of Khiops Native Interface (KNI) is to allow a deeper integration
+ of Khiops in information systems, by mean of the C programming language, using
+ a dynamic link library (DLL). This relates specially to the problem of model
+ deployment, which otherwise requires the use of input and output data files
+ when using directly the Khiops tool in batch mode. See Khiops Guide for an
+ introduction to dictionary files, dictionaries, database files and deployment.
+  .
+ The Khiops deployment features are thus made public through an API with a DLL.
+ Therefore, a Khiops model can be deployed directly from any programming
+ language, such as C, C++, Java, Python, Matlab, etc. This enables real time
+ model deployment without the overhead of temporary data files or launching
+ executables. This is critical for certain applications, such as marketing or
+ targeted advertising on the web.
+  .
+ All KNI functions are C functions for easy use with other programming languages.
+ They return a positive or zero value in case of success, and a negative error
+ code in case of failure. The functions are not reentrant (thread-safe): the DLL
+ can be used simultaneously by several executables, but not simultaneously by
+ several threads in the same executable.
+  .
+ See KhiopsNativeInterface.h for a detailed description of KNI functions
+
+Package: kni
+Version: 10.3.2-1
+Architecture: amd64
+Maintainer: Khiops Team <khiops.team@orange.com>
+Installed-Size: 19909
+Depends: libc6 (>= 2.38), libgcc-s1 (>= 3.0), libstdc++6 (>= 13.1)
+Filename: ./kni_10.3.2-1-noble.amd64.deb
+Size: 2596778
+MD5sum: d055fb344ad451e0c9702fd7ef9806e6
+SHA1: ad5ba28785165be0b96e3337df8726ce67a81617
+SHA256: 4966d73257f70674af17dae1d873b49a343231c1e31388d9216d3ff722b2fdcf
+Section: math
+Priority: optional
+Homepage: https://khiops.org
+Description: Khiops Native Interface
+ The purpose of Khiops Native Interface (KNI) is to allow a deeper integration
+ of Khiops in information systems, by mean of the C programming language, using
+ a dynamic link library (DLL). This relates specially to the problem of model
+ deployment, which otherwise requires the use of input and output data files
+ when using directly the Khiops tool in batch mode. See Khiops Guide for an
+ introduction to dictionary files, dictionaries, database files and deployment.
+  .
+ The Khiops deployment features are thus made public through an API with a DLL.
+ Therefore, a Khiops model can be deployed directly from any programming
+ language, such as C, C++, Java, Python, Matlab, etc. This enables real time
+ model deployment without the overhead of temporary data files or launching
+ executables. This is critical for certain applications, such as marketing or
+ targeted advertising on the web.
+  .
+ All KNI functions are C functions for easy use with other programming languages.
+ They return a positive or zero value in case of success, and a negative error
+ code in case of failure. The functions are not reentrant (thread-safe): the DLL
+ can be used simultaneously by several executables, but not simultaneously by
+ several threads in the same executable.
+  .
+ See KhiopsNativeInterface.h for a detailed description of KNI functions
+
+Package: kni
+Version: 10.3.2-1
+Architecture: amd64
+Maintainer: Khiops Team <khiops.team@orange.com>
+Installed-Size: 19356
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libstdc++6 (>= 11)
+Filename: ./kni_10.3.2-1-bookworm.amd64.deb
+Size: 2536496
+MD5sum: fb5a8c71c8cc616914ded731b57db41e
+SHA1: defb6753a00d96b9a45454508403ed61071e21d1
+SHA256: 0ca340ad34f595289e8335546a830805bc7bc0ce84fed0d43f24493efefa833a
+Section: math
+Priority: optional
+Homepage: https://khiops.org
+Description: Khiops Native Interface
+ The purpose of Khiops Native Interface (KNI) is to allow a deeper integration
+ of Khiops in information systems, by mean of the C programming language, using
+ a dynamic link library (DLL). This relates specially to the problem of model
+ deployment, which otherwise requires the use of input and output data files
+ when using directly the Khiops tool in batch mode. See Khiops Guide for an
+ introduction to dictionary files, dictionaries, database files and deployment.
+  .
+ The Khiops deployment features are thus made public through an API with a DLL.
+ Therefore, a Khiops model can be deployed directly from any programming
+ language, such as C, C++, Java, Python, Matlab, etc. This enables real time
+ model deployment without the overhead of temporary data files or launching
+ executables. This is critical for certain applications, such as marketing or
+ targeted advertising on the web.
+  .
+ All KNI functions are C functions for easy use with other programming languages.
+ They return a positive or zero value in case of success, and a negative error
+ code in case of failure. The functions are not reentrant (thread-safe): the DLL
+ can be used simultaneously by several executables, but not simultaneously by
+ several threads in the same executable.
+  .
+ See KhiopsNativeInterface.h for a detailed description of KNI functions
+
+Package: kni
+Version: 10.3.2-1
+Architecture: amd64
+Maintainer: Khiops Team <khiops.team@orange.com>
+Installed-Size: 19897
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libstdc++6 (>= 11)
+Filename: ./kni_10.3.2-1-jammy.amd64.deb
+Size: 2586778
+MD5sum: 828c663df83e0e41be1954e064984553
+SHA1: 3ec5946cb2f9952facd93c7e3c6050ea49dcc646
+SHA256: 0e2c0abe55e35521e24e195f5bd5cca364bfe3728bba004dbce5fc1614a04da5
+Section: math
+Priority: optional
+Homepage: https://khiops.org
+Description: Khiops Native Interface
+ The purpose of Khiops Native Interface (KNI) is to allow a deeper integration
+ of Khiops in information systems, by mean of the C programming language, using
+ a dynamic link library (DLL). This relates specially to the problem of model
+ deployment, which otherwise requires the use of input and output data files
+ when using directly the Khiops tool in batch mode. See Khiops Guide for an
+ introduction to dictionary files, dictionaries, database files and deployment.
+  .
+ The Khiops deployment features are thus made public through an API with a DLL.
+ Therefore, a Khiops model can be deployed directly from any programming
+ language, such as C, C++, Java, Python, Matlab, etc. This enables real time
+ model deployment without the overhead of temporary data files or launching
+ executables. This is critical for certain applications, such as marketing or
+ targeted advertising on the web.
+  .
+ All KNI functions are C functions for easy use with other programming languages.
+ They return a positive or zero value in case of success, and a negative error
+ code in case of failure. The functions are not reentrant (thread-safe): the DLL
+ can be used simultaneously by several executables, but not simultaneously by
+ several threads in the same executable.
+  .
+ See KhiopsNativeInterface.h for a detailed description of KNI functions
+
+Package: kni
+Version: 10.3.2-1
+Architecture: amd64
+Maintainer: Khiops Team <khiops.team@orange.com>
+Installed-Size: 19898
+Depends: libc6 (>= 2.29), libgcc-s1 (>= 3.0), libstdc++6 (>= 9)
+Filename: ./kni_10.3.2-1-focal.amd64.deb
+Size: 2584846
+MD5sum: 15f4084f56ef1e77575cbfe92737d718
+SHA1: f6bd85759bddeb8642f08a5132515c68767c4e45
+SHA256: 4e6f44c1049469b5b2430f02510dd3fbf09d664e1bc81291bab9770d7ab934a8
+Section: math
+Priority: optional
+Homepage: https://khiops.org
+Description: Khiops Native Interface
+ The purpose of Khiops Native Interface (KNI) is to allow a deeper integration
+ of Khiops in information systems, by mean of the C programming language, using
+ a dynamic link library (DLL). This relates specially to the problem of model
+ deployment, which otherwise requires the use of input and output data files
+ when using directly the Khiops tool in batch mode. See Khiops Guide for an
+ introduction to dictionary files, dictionaries, database files and deployment.
+  .
+ The Khiops deployment features are thus made public through an API with a DLL.
+ Therefore, a Khiops model can be deployed directly from any programming
+ language, such as C, C++, Java, Python, Matlab, etc. This enables real time
+ model deployment without the overhead of temporary data files or launching
+ executables. This is critical for certain applications, such as marketing or
+ targeted advertising on the web.
+  .
+ All KNI functions are C functions for easy use with other programming languages.
+ They return a positive or zero value in case of success, and a negative error
+ code in case of failure. The functions are not reentrant (thread-safe): the DLL
+ can be used simultaneously by several executables, but not simultaneously by
+ several threads in the same executable.
+  .
+ See KhiopsNativeInterface.h for a detailed description of KNI functions
+
+Package: kni
+Version: 10.3.2-1
+Architecture: amd64
+Maintainer: Khiops Team <khiops.team@orange.com>
+Installed-Size: 19357
+Depends: libc6 (>= 2.29), libgcc-s1 (>= 3.0), libstdc++6 (>= 9)
+Filename: ./kni_10.3.2-1-bullseye.amd64.deb
+Size: 2534376
+MD5sum: 35e3893037e6866b705941fad584a034
+SHA1: 192e829977a8623754a9dec99b1cc0f031e50aa5
+SHA256: ea38bab5f28748b3fca47cac7766c4cc41db7685ebd36a270b0677cdb46fef5c
+Section: math
+Priority: optional
+Homepage: https://khiops.org
+Description: Khiops Native Interface
+ The purpose of Khiops Native Interface (KNI) is to allow a deeper integration
+ of Khiops in information systems, by mean of the C programming language, using
+ a dynamic link library (DLL). This relates specially to the problem of model
+ deployment, which otherwise requires the use of input and output data files
+ when using directly the Khiops tool in batch mode. See Khiops Guide for an
+ introduction to dictionary files, dictionaries, database files and deployment.
+  .
+ The Khiops deployment features are thus made public through an API with a DLL.
+ Therefore, a Khiops model can be deployed directly from any programming
+ language, such as C, C++, Java, Python, Matlab, etc. This enables real time
+ model deployment without the overhead of temporary data files or launching
+ executables. This is critical for certain applications, such as marketing or
+ targeted advertising on the web.
+  .
+ All KNI functions are C functions for easy use with other programming languages.
+ They return a positive or zero value in case of success, and a negative error
+ code in case of failure. The functions are not reentrant (thread-safe): the DLL
+ can be used simultaneously by several executables, but not simultaneously by
+ several threads in the same executable.
+  .
+ See KhiopsNativeInterface.h for a detailed description of KNI functions
+
+Package: kni
+Version: 10.3.2-1
+Architecture: amd64
+Maintainer: Khiops Team <khiops.team@orange.com>
+Installed-Size: 19430
+Depends: libc6 (>= 2.14), libgcc1 (>= 1:3.0), libstdc++6 (>= 5.2)
+Filename: ./kni_10.3.2-1-buster.amd64.deb
+Size: 2541472
+MD5sum: 1db955e763be62721d152661e59d32f2
+SHA1: 7e860228bedb27b4ef3e7bae58b16e2acc67fbff
+SHA256: 233890f267abc5d86be0e0422ca5e0bd3bbbca9bb92fe41341a1c9a4f2fa0efb
+Section: math
+Priority: optional
+Homepage: https://khiops.org
+Description: Khiops Native Interface
+ The purpose of Khiops Native Interface (KNI) is to allow a deeper integration
+ of Khiops in information systems, by mean of the C programming language, using
+ a dynamic link library (DLL). This relates specially to the problem of model
+ deployment, which otherwise requires the use of input and output data files
+ when using directly the Khiops tool in batch mode. See Khiops Guide for an
+ introduction to dictionary files, dictionaries, database files and deployment.
+  .
+ The Khiops deployment features are thus made public through an API with a DLL.
+ Therefore, a Khiops model can be deployed directly from any programming
+ language, such as C, C++, Java, Python, Matlab, etc. This enables real time
+ model deployment without the overhead of temporary data files or launching
+ executables. This is critical for certain applications, such as marketing or
+ targeted advertising on the web.
+  .
+ All KNI functions are C functions for easy use with other programming languages.
+ They return a positive or zero value in case of success, and a negative error
+ code in case of failure. The functions are not reentrant (thread-safe): the DLL
+ can be used simultaneously by several executables, but not simultaneously by
+ several threads in the same executable.
+  .
+ See KhiopsNativeInterface.h for a detailed description of KNI functions
+
