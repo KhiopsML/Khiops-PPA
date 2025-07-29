@@ -1,0 +1,38 @@
+---
+name: Update PPA
+on:
+  workflow_dispatch:
+  pull_request:
+    paths: 
+        - "ubuntu/*.deb"
+
+# Cancel any ongoing run of this workflow on the same PR or ref
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.ref
+    }}
+  cancel-in-progress: true
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    defaults:
+      run:
+        shell: bash
+    steps:
+      - name: Checkout sources
+        uses: actions/checkout@v4
+      - name: Update
+        run: |-
+            echo -e "${{ secrets.PRIVATE_KEY }}" | gpg --import
+            bash update.sh
+      - name: Push modifications repo
+        run: |-
+          git config --global user.email "khiops.bot@no-mail.com"
+          git config --global user.name "khiops bot"
+          git config --global --add --bool push.autoSetupRemote true
+          git status
+          git commit -am"update PPA"
+          git push
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
