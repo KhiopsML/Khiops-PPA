@@ -2,7 +2,7 @@
 name: Update PPA
 on:
   workflow_dispatch:
-  pull_request:
+  push:
     paths: 
         - "ubuntu/*.deb"
 
